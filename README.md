@@ -44,19 +44,20 @@ This project is part of my portfolio to demonstrate real-world usage of **Core D
 ## 🖼️ Screenshots
 
 ### ➕ Add Book  
-<img src="screenshots/add_book.png" width="300"/>
+<img src="BookTracker/screenshots/add_book.png" width="300"/>
 
 ### ✏️ Edit Book  
-<img src="screenshots/edit_book.png" width="300"/>
+<img src="BookTracker/screenshots/edit_book.png" width="300"/>
 
 ### ✅ Filter Books  
-<img src="screenshots/filter_all.png" width="300"/>
+<img src="BookTracker/screenshots/filter_all.png" width="300"/>
 
 ### 🔍 Search Books  
-<img src="screenshots/search.png" width="300"/>
+<img src="BookTracker/screenshots/search.png" width="300"/>
 
 ### 🗑️ Delete Book  
-<img src="screenshots/delete.png" width="300"/>
+<img src="BookTracker/screenshots/delete.png" width="300"/>
+
 
 ---
 
