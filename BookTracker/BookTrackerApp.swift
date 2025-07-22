@@ -2,7 +2,7 @@
 //  BookTrackerApp.swift
 //  BookTracker
 //
-//  Created by Siddhatech on 22/07/25.
+//  Created by Rushi on 22/07/25.
 //
 
 import SwiftUI
