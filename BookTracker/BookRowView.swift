@@ -32,9 +32,7 @@ struct BookRowView: View {
 
             Spacer()
 
-            if book.isRead {
-                Image(systemName: "checkmark.circle.fill").foregroundColor(.green)
-            }
+            Image(systemName: "checkmark.circle.fill").foregroundColor(book.isRead ? .green : .yellow)
         }
     }
 }
